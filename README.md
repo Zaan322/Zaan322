@@ -26,7 +26,8 @@ ___
 
 :star: Here are some projects that I'm working on:
 - [Touka Repository](https://github.com/Zaan322/s)
-- [Zan](https://wa.me/6282291992581)
+- [wa me](https://wa.me/6282291992581)
+- [BOT TERMUX](https://github.com/Zanganss)
 
 ### About Me ⚠️
 ___
