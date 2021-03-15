@@ -1,4 +1,4 @@
-[![ZAN GAMING](https://github.com/Zaan322/Zaan322/blob/main/Background.jpg)](https://github.com/Zaan322)
+[![ZAN GAMING](https://github.com/TobyG74/TobyG74/blob/main/Background.jpg)](https://github.com/Zaan322)
 
 ___
 
