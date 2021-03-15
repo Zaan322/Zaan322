@@ -2,7 +2,9 @@
 
 ___
 
-<p align='center'><a href="https://instagram.com/zanganzz_"><img height="200" src="https://github.com/Zaan322/Zaan322/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/zanganzz_"><img height="200" src="https://github.com/Zaan322/Zaan322/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://saweria.co/Irzan"><img height="30" src="https://github.com/Zaan322/Zaan322blob/main/facebook.png?raw=true"></a
+</P>
 
 <h1  align='center'> Hi there 👋 </h1>
 
