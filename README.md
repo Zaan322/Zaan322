@@ -12,7 +12,6 @@ ___
 
 <p align='center'>
    <a href="https://instagram.com/zanganzz_"><img height="30" src="https://github.com/Zaan322/Zaan322/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   [![ZAN GAMING](https://github.com//Zaan322/blob/main/saweria.jpg)](https://saweria.co/Irzan)
 </P>
 
 :page_with_curl: I'm currently learning:
