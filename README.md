@@ -14,7 +14,8 @@ ___
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 
 <p align='center'>
-   <a href="https://instagram.com/zanganzz_"><img height="30" src="https://github.com/Zaan322/Zaan322/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/zanganzz_"><img height="30" src="https://github.com/Zaan322/Zaan322/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp
+   <a href="https://saweria.co/Irzan"><img height="30" src="https://github.com/Zaan322/Zaan322/blob/main/saweria.jpg?raw=true"></a>
 </P>
 
 :page_with_curl: I'm currently learning:
