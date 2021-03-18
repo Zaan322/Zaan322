@@ -34,7 +34,7 @@ ___
 ### About Me ⚠️
 ___
 
-![TobyG74 github stats](https://github-readme-stats.vercel.app/api?username=Zaan322&layout=compact&theme=tokyonight)
+![Zaan322 github stats](https://github-readme-stats.vercel.app/api?username=Zaan322&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaan322&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **TobyG74/TobyG74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
